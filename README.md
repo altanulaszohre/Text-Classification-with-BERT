@@ -95,3 +95,6 @@ Thanks to:
 - [HuggingFace Transformers](https://huggingface.co/transformers/)
 - [PyTorch](https://pytorch.org/)
 - The BBC dataset provider
+
+
+***Altan Ulaş Zöhre***
